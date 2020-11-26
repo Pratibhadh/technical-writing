@@ -53,6 +53,10 @@ A crowd-sourced list of axioms and rules of writing, along with descriptions, th
 ### The Craft of Writing Effectively by Larry McEnerney
 Aimed at academics, but very generally applicable writing advice, and why everything you learnt in school is probably wrong. You can find it [here on YouTube](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 
+### Technical Writing YouTube Channel
+
+A [YouTube channel](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA) for technical writers but also helpful for technologists (developers, product managers, designers) -- anyone who wants to learn how to communicate technical information effectively.
+
 ## Meta
 *Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
