@@ -46,6 +46,11 @@ Smashing Magazine is a longstanding publication that publishes all types of arti
 ## [FloydHub](https://blog.floydhub.com/write-for-floydhub/)
 FloydHub publishes technical tutorials on data science, AI, and ML. They are known to pay $150 per article in USD or platform credits.
 
+## [Listverse](https://listverse.com/submit-a-list/)
+At Listverse, you have to submit your article in a list format and with no less than 10 items. Listicles can be about unknown facts in categories such as 
+entertainment, mystery, science, society, general knowledge, lifestyle or anything creepy or bizarre.  You can earn $100 for each article that is approved by their 
+editors.
+
 # Writing for exposure
 
 If you can string sentences together and know a bit about tech, your writing is worth something. However, sometimes it's worthwhile writing for exposure, especially if you haven't written much and you want a portfolio to show off when you pitch to places that pay. Here are some places where you can write for exposure.
